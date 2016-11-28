@@ -1,5 +1,5 @@
 class Paddle(object):
-    """docstring for Paddle."""
+    """this is a new file in new repo"""
     def __init__(self, x, y):
         self.arg = arg
 
